@@ -67,7 +67,7 @@
     "resolve": "^1.19.0",
     "semver": "^7.3.4",
     "update-dotenv": "^1.1.1",
-    "uuid": "^8.3.2"
+    "uuid": "^14.0.0"
   },
   "devDependencies": {
     "@octokit/webhooks-examples": "^4.0.0",
